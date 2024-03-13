@@ -4,18 +4,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Armata&family=Monoton&family=Nothing+You+Could+Do&family=Rock+Salt&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Armata&family=Monoton&family=Neucha&family=Nothing+You+Could+Do&family=Rock+Salt&display=swap');
-header{width: 1500px;
+header{
+    background-color: black;
+    width: 1500px;
 }
 img{
     width: 100px;
 }
-h1{font-size: 50px;
+h1{background-color: black;
+    font-size: 50px;
     color: #0921f7;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
     p{
     font-size: 25px;
-    color: hsl(64, 93%, 49%);
+    color: hsl(262, 93%, 49%);
     
   font-family: "Armata", sans-serif;
 }
@@ -64,13 +67,13 @@ h3{
     font-family: cursive;
     
     font-size:60px;
-    color: hsl(64, 93%, 49%);
+    color: hsl(286, 93%, 49%);
     font-family: "Neucha", cursive;
 }
 h5{
  
     font-size: 40px;
-    color: rgb(70, 234, 10);
+    color: rgb(137, 10, 234);
     font-family: cursive;   
 }
 #contactanos{
@@ -86,7 +89,7 @@ margin: 10px;
 
 
 body{
-    background-image:url("/desarrollo/imagentiki/menu\ pizzas\ tiki.jpg");
+    background-color: black;
     background-size: cover;
     background-repeat: no-repeat;
 }
